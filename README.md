@@ -82,9 +82,8 @@
 
 
 </p>
+#s# Animation
+<object type="image/svg+xml" data="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg">
+  Your browser does not support SVG
+</object>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
