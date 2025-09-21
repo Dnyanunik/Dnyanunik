@@ -79,6 +79,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanunik&theme=radical" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyanunik&theme=radical" width="95%"/>
+
 </p>
