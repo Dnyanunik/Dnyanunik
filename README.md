@@ -82,8 +82,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyanunik&theme=radical" width="95%"/>
 </p>
-
----
-
-<!-- Animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>  
