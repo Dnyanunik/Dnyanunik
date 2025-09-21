@@ -80,10 +80,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanunik&theme=radical" height="180em" />
 </p>
 
-
-</p>
-#s# Animation
-<object type="image/svg+xml" data="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg">
-  Your browser does not support SVG
-</object>
-
