@@ -2,11 +2,10 @@
 <h1 align="center">
   Hi 👋, I'm Dnyaneshwar Nikam  
 </h1>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+Turning+Ideas+into+Reality;Android+%7C+Cloud+%7C+Salesforce+Enthusiast;Mobile+%26+Web+App+Developer;Hackathon+Winner+%F0%9F%8F%86;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing Animation" />
+  Passionate about Turning Ideas into Reality | Android | Cloud | Salesforce Enthusiast  
 </h3>
-
-
 ---
 
 <p align="center"> 
