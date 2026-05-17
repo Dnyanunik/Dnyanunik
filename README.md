@@ -1,77 +1,85 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ============================== -->
+<!--         PROFILE HEADER        -->
+<!-- ============================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Dnyaneshwar%20Nikam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Salesforce%20Learner&descAlignY=58&descSize=18" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:141E30,50:243B55,100:0F2027&text=Dnyaneshwar%20Nikam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Android%20Developer%20%7C%20Cloud%20Learner&descAlignY=58&descSize=18"
+  />
 </p>
 
-<h3 align="center">
-Building Scalable Applications • Exploring Cloud Technologies • Passionate Problem Solver
-</h3>
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dnyanunik&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" />
-  
-  <img src="https://img.shields.io/github/followers/dnyanunik?style=for-the-badge&color=1f6feb&labelColor=0d1117" />
-  
-  <img src="https://img.shields.io/github/stars/dnyanunik?style=for-the-badge&color=f5b301&labelColor=0d1117" />
+  <a href="https://github.com/dnyanunik">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Android+Application+Developer;Cloud+and+Salesforce+Enthusiast;Building+Scalable+and+Practical+Solutions" />
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dnyanunik&label=Profile%20Views&style=flat-square&color=1f6feb" />
+</p>
+
+---
+
+## About Me
 
 ```java
-class Developer {
+public class Developer {
 
     String name = "Dnyaneshwar Nikam";
-    String role = "Android Developer";
-    String location = "Pune, India";
 
-    String[] skills = {
+    String role = "Full Stack Developer";
+
+    String focus = "Building scalable applications and practical solutions";
+
+    String[] domains = {
         "Android Development",
-        "Cloud Computing",
-        "Firebase",
         "Web Development",
+        "Cloud Computing",
+        "Backend Development",
         "Salesforce"
     };
 
     String[] currentlyLearning = {
-        "AWS",
         "Google Cloud",
+        "AWS",
+        "Azure",
         "Flutter",
         "React Native"
     };
 
-    String goal = "Build impactful applications used worldwide";
+    String mindset =
+        "Consistency, problem solving, clean architecture, and continuous learning.";
 
-    void work() {
-        System.out.println("Turning ideas into scalable solutions 🚀");
+    public void build() {
+        System.out.println("Turning ideas into real world products.");
     }
 }
 ```
 
 ---
 
-# 🚀 Current Project
+## Current Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-### 🌾 Agrisquare App
-Smart agriculture-based mobile application focused on improving farmer connectivity and digital accessibility.
+### Agrisquare App
+
+A modern agriculture-focused mobile application designed to improve farmer accessibility, communication, and digital connectivity through smart technology solutions.
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
 ```txt
-STATUS       : IN DEVELOPMENT
-PLATFORM     : ANDROID
-BACKEND      : FIREBASE
-CATEGORY     : AGRI-TECH
+Project Status  : Active Development
+Platform        : Android
+Backend         : Firebase
+Category        : Agri-Tech
+Architecture    : Scalable Mobile System
 ```
 
 </td>
@@ -80,117 +88,115 @@ CATEGORY     : AGRI-TECH
 
 ---
 
-# 🌱 Currently Learning
+## Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,flutter,react,azure&theme=dark" />
-</p>
-
-- Cloud Technologies (AWS, Google Cloud, Azure)
-- Salesforce Development
-- Flutter & React Native
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css,flutter,react,androidstudio,firebase,mysql,nodejs,git,github,aws,gcp,linux,c,cpp,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css,react,flutter,nodejs,androidstudio,firebase,mysql,git,github,aws,gcp,linux,c,cpp,figma&perline=10" />
 </p>
 
 ---
-
-# 📊 Developer Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnyanunik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanunik&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
+## Contribution Graph
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanunik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyanunik&theme=merko&hide_border=true"/>
 </p>
 
 ---
+## Certifications
 
-# 🏆 Achievements
+```yaml
+Infosys:
+  - Introduction to Android Development
+  - Android App Layout
+  - Cloud Computing 101
+  - Smart Manufacturing of Industry 4.0 Concepts
+
+Google Cloud:
+  - Google Cloud Arcade Facilitator Program
+  - Google Cloud Launchpad Track
+
+Training:
+  - Software Testing Course - Cyber Success Pune
+```
+
+---
+
+## Achievement
 
 ```yaml
 Project:
   Name: E-Commerce Android Application
-  Team_Size: 5 Members
+  Team: 5 Members
   Duration: 4 Months
 
 Technologies:
   - Android Studio
   - Java
   - Firebase
-  - Razorpay API
+  - Razorpay Integration
   - OTP Authentication
 
-Achievement:
-  Award: 1st Prize 🏆
-  Event: Project & Startup Competition
+Result:
+  Award: First Prize
+  Category: Project and Startup Competition
 ```
 
 ---
 
-# 📚 Certifications
+## Developer Philosophy
 
-- Introduction to Android Development – Infosys
-- Android App Layout – Infosys
-- Cloud Computing 101 – Infosys Springboard
-- Smart Manufacturing of Industry 4.0 Concepts – Infosys Springboard
+```cpp
+while (careerGrowth) {
+
+    learnNewTechnologies();
+
+    buildProjects();
+
+    solveProblems();
+
+    improveSkills();
+
+    stayConsistent();
+}
+```
 
 ---
 
-# 🌐 Connect With Me
+## Connect
 
 <p align="center">
 
   <a href="https://www.linkedin.com/in/dnyaneshwar-haridas-nikam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://twitter.com/cse_nikam">
-    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-111111?style=flat-square&logo=x&logoColor=white"/>
   </a>
 
   <a href="https://www.hackerrank.com/h24030102">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
   </a>
 
   <a href="https://leetcode.com/u/dnyaneshwarnikam123/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
 
 </p>
 
 ---
 
-# ⚡ Developer Mindset
+## Contact
 
-```cpp
-while(!success) {
-    learn();
-    build();
-    improve();
-    repeat();
-}
-```
-
----
-
-# 📫 Contact
-
-```yaml
-Email: dnyaneshwarn727@gmail.com
-Location: Pune, Maharashtra, India
+```txt
+Email    : dnyaneshwarn727@gmail.com
+Location : Pune, Maharashtra, India
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:141E30,50:243B55,100:0F2027"
+  />
 </p>
